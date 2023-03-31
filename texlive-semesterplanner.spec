@@ -1,6 +1,6 @@
 Name:		texlive-semesterplanner
 Version:	56841
-Release:	1
+Release:	2
 Summary:	Create beautiful semester timetables and more
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semesterplanner
