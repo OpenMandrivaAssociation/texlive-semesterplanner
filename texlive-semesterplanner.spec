@@ -3,7 +3,7 @@ Version:	56841
 Release:	2
 Summary:	Create beautiful semester timetables and more
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semesterplanner
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/semesterplanner
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semesterplanner.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semesterplanner.doc.r%{version}.tar.xz
